@@ -40,4 +40,4 @@ Focusing on the telecom client's goal of improving gender balance at the executi
 
 Access [here](https://app.powerbi.com/view?r=eyJrIjoiNWRjNWU5NjctODM5Yy00Yjc3LWI4N2YtNTYyZmY1YTA5OTg3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) for live and interactive dashboards.
 
-[certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-
+[certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-)
