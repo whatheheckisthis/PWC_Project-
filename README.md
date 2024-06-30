@@ -1,45 +1,8 @@
-# PWC_Project-
-
-[Certficate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_Xn7ekaZzJQwsDLGnw_1719703393352_completion_certificate.pdf)
-
-# Microsoft Power BI PwC Virtual Case Experience
-
-This repository showcases the tasks and results from the PwC Switzerland Power BI Virtual Case Experience by Forage. It simulates work in the Digital Accelerator team at PwC Switzerland, focusing on data visualization and predictive analytics within cybersecurity and cloud architecture contexts.
-
-
-### Tasks
-
-1. **Create Call Centre Dashboard:**
-   - **Context:** Cybersecurity Incident Response.
-   - **Objective:** Visualize and analyze customer and agent interactions to identify patterns indicative of potential security breaches and response efficiency.
-
-2. **Create Customer Retention Dashboard:**
-   - **Context:** Data Privacy and Customer Churn.
-   - **Objective:** Predict churn and visualize customer demographics to understand data privacy concerns and retention strategies, using insights to enhance security measures and data governance.
-
-3. **Create Diversity and Inclusion in HR Dashboard:**
-   - **Context:** Secure Cloud Workforce Management.
-   - **Objective:** Visualize gender balance in the executive suite to ensure diversity while managing access controls and secure cloud operations.
-
-## Technical Stack
-
-- **Visualization:**
-  - **Microsoft Power BI:** For creating interactive dashboards and reports.
-  - **Microsoft PowerPoint:** For designing layout and presentation of insights.
-
-- **Predictive Analysis:**
-  - **Language:** Python 3.11
-  - **Packages:** Pandas, Numpy, scikit-learn, XGBoost
-  - **Applications:** Used for predictive modeling and analysis, enhancing data insights related to cybersecurity risks and trends.
-
-
----
-
 # Data Analytics and Visualization for Business Impact with Power BI
 
 ## Project Overview
 
-This project is part of the [PwC Switzerland Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/Power%20BI%20in%20Data%20Analytics?ref=zYi2CnpbWjhcS7sAk), demonstrating the application of digital tools in data visualization, automation, data cleansing, and more to address common business challenges. It features Power BI dashboards focusing on Call Centre Trends, Customer Retention, and Diversity & Inclusion. Each dashboard provides actionable insights into different facets of business operations and strategic planning, aiding PwC Switzerland and its clients in enhancing operational efficiency, fostering customer loyalty, and promoting a more inclusive workplace. 
+This project is part of the [PwC Switzerland Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/Power%20BI%20in%20Data%20Analytics?ref=zYi2CnpbWjhcS7sAk), demonstrating the application of digital tools in data visualization, automation, data cleansing, and more to address common business challenges. It features a series of Power BI dashboards focusing on Call Centre Trends, Customer Retention, and Diversity & Inclusion. Each dashboard provides actionable insights into different facets of business operations and strategic planning, aiding PwC Switzerland and its clients in enhancing operational efficiency, fostering customer loyalty, and promoting a more inclusive workplace. 
 
 Through meticulous data analysis and visualization, this project aims to support informed decision-making and highlight areas for improvement and innovation.
 
