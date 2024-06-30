@@ -41,11 +41,3 @@ Access [here](https://www.novypro.com/project/pwc-switzerland-virtual-case-exper
 Focusing on the telecom client's goal of improving gender balance at the executive management level, this dashboard visualizes metrics related to diversity and inclusion, offering insights into current trends and areas for action.
 
 Access [here](https://www.novypro.com/project/pwc-switzerland-virtual-case-experience---task-3-diversity--inclusion-power-bi) for live and interactive dashboards.
-
-<p align="center">
-    <img src="README%20assests/Diversity%20&%20Inclusion-1.png" alt="Diversity & Inclusion 1" style="width: 80%"/>
-</p>
-
-<p align="center">
-    <img src="README%20assests/Diversity%20&%20Inclusion-2.png" alt="Diversity & Inclusion 2" style="width: 80%"/>
-</p>
