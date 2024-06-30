@@ -1,5 +1,5 @@
 # Data Analytics and Visualization for Business Impact with Power BI
-[certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_Xn7ekaZzJQwsDLGnw_1719703393352_completion_certificate.pdf)
+
 ## Project Overview
 
 This project is part of the [PwC Switzerland Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/Power%20BI%20in%20Data%20Analytics?ref=zYi2CnpbWjhcS7sAk), demonstrating the application of digital tools in data visualization, automation, data cleansing, and more to address common business challenges. It features Power BI dashboards focusing on Call Centre Trends, Customer Retention, and Diversity & Inclusion. Each dashboard provides actionable insights into different facets of business operations and strategic planning, aiding PwC Switzerland and its clients in enhancing operational efficiency, fostering customer loyalty, and promoting a more inclusive workplace. 
@@ -34,10 +34,10 @@ This dashboard was developed in response to a request from the telecom's Retenti
 
 Access [here](https://app.powerbi.com/view?r=eyJrIjoiZmQ5ODg4NDAtMWViNS00NDYzLWE5M2QtY2NkYzYwOGUxMjgyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) for live and interactive dashboards.
 
-
-
 ### Diversity & Inclusion
 
 Focusing on the telecom client's goal of improving gender balance at the executive management level, this dashboard visualizes metrics related to diversity and inclusion, offering insights into current trends and areas for action.
 
 Access [here](https://app.powerbi.com/view?r=eyJrIjoiNWRjNWU5NjctODM5Yy00Yjc3LWI4N2YtNTYyZmY1YTA5OTg3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) for live and interactive dashboards.
+
+[certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-
