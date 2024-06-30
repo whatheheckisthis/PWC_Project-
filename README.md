@@ -25,14 +25,14 @@ To download the `.pbix` files, navigate to the folder in this repository where t
 
 The first dashboard provides a comprehensive view of call centre metrics, focusing on customer satisfaction, call volumes, and agent performance. It aids in identifying areas for improvement in call centre operations. 
 
-Access [here](https://www.novypro.com/project/pwc-switzerland-virtual-case-experience---task-1-call-center-trends-power-bi) for live and interactive dashboards.
+Access [here](https://app.powerbi.com/view?r=eyJrIjoiMzQ2ZTk4MGYtZjQ2Ni00YWQ5LWI0OGYtODg1MjYzOTgwNmYxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) for live and interactive dashboards.
 
 
 ### Customer Retention
 
 This dashboard was developed in response to a request from the telecom's Retention Manager, showcasing key metrics related to customer loyalty and retention. It visualizes data to predict customer churn and identifies potential strategies to enhance customer retention.
 
-Access [here](https://www.novypro.com/project/pwc-switzerland-virtual-case-experience---task-2-customer-churn-and-risk-analysis-power-bi) for live and interactive dashboards.
+Access [here](https://app.powerbi.com/view?r=eyJrIjoiZmQ5ODg4NDAtMWViNS00NDYzLWE5M2QtY2NkYzYwOGUxMjgyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) for live and interactive dashboards.
 
 
 
@@ -40,4 +40,4 @@ Access [here](https://www.novypro.com/project/pwc-switzerland-virtual-case-exper
 
 Focusing on the telecom client's goal of improving gender balance at the executive management level, this dashboard visualizes metrics related to diversity and inclusion, offering insights into current trends and areas for action.
 
-Access [here](https://www.novypro.com/project/pwc-switzerland-virtual-case-experience---task-3-diversity--inclusion-power-bi) for live and interactive dashboards.
+Access [here](https://app.powerbi.com/view?r=eyJrIjoiNWRjNWU5NjctODM5Yy00Yjc3LWI4N2YtNTYyZmY1YTA5OTg3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) for live and interactive dashboards.
